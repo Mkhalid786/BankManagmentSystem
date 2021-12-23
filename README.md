@@ -1,0 +1,2 @@
+# BankManagmentSystem
+Bank System is based on the concept of recording customer’s account details. The system contains only the admin section. Here the admin can perform all the tasks like creating an account, deposit and withdraw amount, check balance, view all account holders detail, and modify an account. There’s no login system for this project. All the main features of the banking system are set in this project .     
